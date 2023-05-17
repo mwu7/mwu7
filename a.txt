@@ -1,2 +1,3 @@
 initial file a.txt
+update 1
 
